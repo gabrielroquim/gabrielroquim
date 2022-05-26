@@ -1,6 +1,6 @@
 ### Olá, sou Gabriel Roquim 👋
 
-- 🔭 Atualmente trabalho como analista de testes na QuikDev
+- 🔭 Atualmente trabalho como analista de testes na i4pro
 - 🌱 Estudando Engenharia Qualidade de Software na EBAC
 
 
