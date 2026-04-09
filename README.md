@@ -1,6 +1,6 @@
 ### Olá, sou Gabriel Roquim 👋
 
-- 🔭 Atualmente trabalho como analista de testes na i4pro
+- 🔭 
 - 🌱 Pós em Engenharia de Qualidade de Software
 - CTFL
 
