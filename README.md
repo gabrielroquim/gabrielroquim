@@ -1,28 +1,38 @@
-### Olá, sou Gabriel Roquim 👋
+# Olá, sou Gabriel Roquim 👋
 
-- 🔭 
-- 🌱 Pós em Engenharia de Qualidade de Software
-- CTFL
+Sou um QA apaixonado por garantir que a tecnologia não apenas funcione, mas encante e entregue valor real aos usuários. 
+Com uma trajetória que me levou de Analista de Testes Pleno a Especialista em Qualidade de Software, minha missão é impulsionar a excelência em cada etapa do ciclo de desenvolvimento.
 
+Atualmente, atuo na **Youse Seguros** como Analista de Teste/QA, onde aplico e aprimoro continuamente as melhores práticas da área.
 
-<div align="center">
-  <a href="https://github.com/gabrielroquim">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielroquim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielroquim&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="Gabriel-Cucumber" height="30" width="40" src="https://icongr.am/devicon/cucumber-plain.svg?size=104&color=00a818">   
-  
-</div>
-  
-##
-  
-<div>
-   <a href="https://www.linkedin.com/in/gabriel-roquim-407a5539" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:gabrielroquim@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>     
-  
-   </div>
+## Minha Jornada e Expertise
+
+Minha carreira é marcada por um foco constante em:
+
+*   **Automação de Testes:** Possuo vasta experiência com ferramentas como **Playwright**, **Cypress**, **Postman** e **k6/JMeter** para automação de testes de UI, API e performance <sources>[1]</sources>.
+*   **Shift-Left e CI/CD:** Acredito que a qualidade começa no início do processo. Trabalho ativamente para integrar testes e práticas de QA desde as fases iniciais do desenvolvimento, utilizando pipelines de CI/CD para feedback rápido e entregas contínuas <sources>[1]</sources>.
+*   **DevSecOps:** Incorporo a segurança no ciclo de vida do desenvolvimento, realizando testes de segurança em APIs e promovendo uma cultura de DevSecOps <sources>[1]</sources>.
+*   **Qualidade Holística:** Minha visão vai além da detecção de bugs. Sou um defensor da experiência do usuário, da usabilidade, performance, segurança e do valor de negócio, garantindo que o produto final seja robusto e relevante <sources>[1]</sources>.
+*   **Mentoria e Liderança:** Como Tech Lead QA, meu foco é desenvolver pessoas, inspirar o time e promover uma cultura de qualidade colaborativa <sources>[1]</sources>.
+
+## Contribuições e Resultados
+
+Ao longo da minha carreira, tive o privilégio de:
+
+*   Compartilhar conhecimento através do meu canal **"Dicas do Gabs"** no YouTube, onde abordo temas como Playwright CLI, Trace Viewer, Reports, AI Agents, Acessibilidade Digital e as tendências do mercado de QA <sources>[1]</sources>.
+*   Desenvolver o **QA Menu (V5.0)**, um snippet JavaScript injetável no navegador que serve como um hub centralizado para testes exploratórios, auditorias de segurança, performance e acessibilidade <sources>[1]</sources>.
+
+## Educação e Aprendizado Contínuo
+
+Sou pós-graduado em **Engenharia de Qualidade e Teste de Software pela PUC Minas** e estou cursando **AI Engineering na Impacta Tecnologia** <sources>[1]</sources>. Acredito firmemente no aprendizado contínuo e busco conectar a inteligência artificial com a qualidade de software para elevar o nível da automação e da engenharia de qualidade <sources>[1]</sources>.
+
+Possuo certificações como **CTFL** e o selo **Aprendiz ao Longo da Vida 2026 da Certiprof**, que reforçam meu compromisso com a evolução constante <sources>[1]</sources>.
+
+## Conecte-se Comigo
+
+Estou sempre aberto a novas conexões e discussões sobre Qualidade de Software, Automação, IA e as tendências da tecnologia.
+
+*   **LinkedIn:** [https://www.linkedin.com/in/gabsqa/](https://www.linkedin.com/in/gabsqa/)
+*   **YouTube (Dicas do Gabs):** [https://www.youtube.com/@dicas.gabs-qa](https://www.youtube.com/@dicas.gabs-qa)
+
+Vamos construir softwares de alta qualidade juntos!
