@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/gabrielroquim/gabrielroquim/master/assets/profile-pixar.png" alt="Gabriel Roquim - QA Engineer" width="100%"/>
+<div align="center"><img src="https://raw.githubusercontent.com/gabrielroquim/gabrielroquim/master/assets/profile-pixar.png" alt="Gabriel Roquim - QA Engineer" width="60%"/></div>
 
   <h1>Olá, sou Gabriel Roquim 👋</h1>
 
