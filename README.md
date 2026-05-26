@@ -1,38 +1,85 @@
-# Olá, sou Gabriel Roquim 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gabrielroquim/gabrielroquim/master/assets/profile-pixar.png" 
+       alt="Gabriel Roquim - QA Engineer" 
+       width="220"/>
 
-Sou um QA apaixonado por garantir que a tecnologia não apenas funcione, mas encante e entregue valor real aos usuários. 
-Com uma trajetória que me levou de Analista de Testes Pleno a Especialista em Qualidade de Software, minha missão é impulsionar a excelência em cada etapa do ciclo de desenvolvimento.
+  <h1>Olá, sou Gabriel Roquim 👋</h1>
 
-Atualmente, atuo na **Youse Seguros** como Analista de Teste/QA, onde aplico e aprimoro continuamente as melhores práticas da área.
+  <p><em>QA apaixonado por garantir que a tecnologia não apenas funcione, mas encante e entregue valor real.</em></p>
 
-## Minha Jornada e Expertise
+  <p>
+    <a href="https://www.linkedin.com/in/gabsqa/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.youtube.com/@dicas.gabs-qa">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    </a>
+  </p>
+</div>
 
-Minha carreira é marcada por um foco constante em:
+---
 
-*   **Automação de Testes:** Possuo vasta experiência com ferramentas como **Playwright**, **Cypress**, **Postman** e **k6/JMeter** para automação de testes de UI, API e performance <sources>[1]</sources>.
-*   **Shift-Left e CI/CD:** Acredito que a qualidade começa no início do processo. Trabalho ativamente para integrar testes e práticas de QA desde as fases iniciais do desenvolvimento, utilizando pipelines de CI/CD para feedback rápido e entregas contínuas <sources>[1]</sources>.
-*   **DevSecOps:** Incorporo a segurança no ciclo de vida do desenvolvimento, realizando testes de segurança em APIs e promovendo uma cultura de DevSecOps <sources>[1]</sources>.
-*   **Qualidade Holística:** Minha visão vai além da detecção de bugs. Sou um defensor da experiência do usuário, da usabilidade, performance, segurança e do valor de negócio, garantindo que o produto final seja robusto e relevante <sources>[1]</sources>.
-*   **Mentoria e Liderança:** Como Tech Lead QA, meu foco é desenvolver pessoas, inspirar o time e promover uma cultura de qualidade colaborativa <sources>[1]</sources>.
+## 🚀 Sobre mim
 
-## Contribuições e Resultados
+Atualmente atuo na **Youse Seguros** como Analista de Teste/QA. Com uma trajetória que me levou de Analista de Testes Pleno a **Especialista em Qualidade de Software**, minha missão é impulsionar a excelência em cada etapa do ciclo de desenvolvimento.
 
-Ao longo da minha carreira, tive o privilégio de:
+Pós-graduado em **Engenharia de Qualidade e Teste de Software pela PUC Minas** | Cursando **AI Engineering na Impacta Tecnologia**
 
-*   Compartilhar conhecimento através do meu canal **"Dicas do Gabs"** no YouTube, onde abordo temas como Playwright CLI, Trace Viewer, Reports, AI Agents, Acessibilidade Digital e as tendências do mercado de QA <sources>[1]</sources>.
-*   Desenvolver o **QA Menu (V5.0)**, um snippet JavaScript injetável no navegador que serve como um hub centralizado para testes exploratórios, auditorias de segurança, performance e acessibilidade <sources>[1]</sources>.
+---
 
-## Educação e Aprendizado Contínuo
+## 🛠️ Tech Stack
 
-Sou pós-graduado em **Engenharia de Qualidade e Teste de Software pela PUC Minas** e estou cursando **AI Engineering na Impacta Tecnologia** <sources>[1]</sources>. Acredito firmemente no aprendizado contínuo e busco conectar a inteligência artificial com a qualidade de software para elevar o nível da automação e da engenharia de qualidade <sources>[1]</sources>.
+<div align="center">
 
-Possuo certificações como **CTFL** e o selo **Aprendiz ao Longo da Vida 2026 da Certiprof**, que reforçam meu compromisso com a evolução constante <sources>[1]</sources>.
+  ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## Conecte-se Comigo
+</div>
 
-Estou sempre aberto a novas conexões e discussões sobre Qualidade de Software, Automação, IA e as tendências da tecnologia.
+---
 
-*   **LinkedIn:** [https://www.linkedin.com/in/gabsqa/](https://www.linkedin.com/in/gabsqa/)
-*   **YouTube (Dicas do Gabs):** [https://www.youtube.com/@dicas.gabs-qa](https://www.youtube.com/@dicas.gabs-qa)
+## 🎯 Expertise
 
-Vamos construir softwares de alta qualidade juntos!
+- 🤖 **Automação de Testes** — UI, API e Performance com Playwright, Cypress, Postman e k6/JMeter
+- 🔄 **Shift-Left & CI/CD** — Qualidade integrada desde o início com pipelines de entrega contínua
+- 🔐 **DevSecOps** — Testes de segurança em APIs e cultura de segurança no desenvolvimento
+- 🌟 **Qualidade Holística** — UX, usabilidade, performance, segurança e valor de negócio
+- 👥 **Tech Lead QA** — Mentoria, desenvolvimento de pessoas e cultura de qualidade colaborativa
+
+---
+
+## 📺 Contribuições
+
+- 🎬 Canal **[Dicas do Gabs](https://www.youtube.com/@dicas.gabs-qa)** — Playwright CLI, Trace Viewer, AI Agents, Acessibilidade Digital e tendências de QA
+- 🛠️ **QA Menu (V5.0)** — Snippet JavaScript injetável no navegador com hub para testes exploratórios, segurança, performance e acessibilidade
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielroquim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielroquim&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+## 🏆 Certificações
+
+- 📜 **CTFL** — Certified Tester Foundation Level
+- 🎓 **Aprendiz ao Longo da Vida 2026** — Certiprof
+
+---
+
+<div align="center">
+
+  **Vamos construir softwares de alta qualidade juntos!** 🚀
+
+  ⭐ Se algum projeto te ajudou, deixe uma estrela!
+
+</div>
