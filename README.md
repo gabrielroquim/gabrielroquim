@@ -2,7 +2,7 @@
 
   <img src="https://raw.githubusercontent.com/gabrielroquim/gabrielroquim/master/assets/gabs-banner-git.png" alt="Gabriel Roquim - GABS QA" width="100%"/>
 
-  <h1>Olá, sou Gabriel Roquim 👋</h1>
+  <h1>Olá, sou Gabs Roquim 👋</h1>
 
   <p><em>QA apaixonado por garantir que a tecnologia não apenas funcione, mas encante e entregue valor real.</em></p>
 
@@ -20,7 +20,8 @@
 
 ## 🚀 Sobre mim
 
-Atualmente atuo na **Youse Seguros** como Analista de Teste/QA. Com uma trajetória que me levou de Analista de Testes Pleno a **Especialista em Qualidade de Software**, minha missão é impulsionar a excelência em cada etapa do ciclo de desenvolvimento.
+Atualmente atuo na **Youse Seguros** como Analista de Teste/QA. 
+Com uma trajetória que me levou de Analista de Testes Pleno a **Especialista em Qualidade de Software**, minha missão é impulsionar a excelência em cada etapa do ciclo de desenvolvimento.
 
 Pós-graduado em **Engenharia de Qualidade e Teste de Software pela PUC Minas** | Cursando **AI Engineering na Impacta Tecnologia**
 
